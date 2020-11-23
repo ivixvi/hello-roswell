@@ -14,5 +14,5 @@ exec ros -Q -S . -- $0 "$@"
 
 (defun main (&rest argv)
   (declare (ignorable argv))
-  (hello-roswell:main))
+  (hello-roswell:yubaba))
 ;;; vim: set ft=lisp lisp:
